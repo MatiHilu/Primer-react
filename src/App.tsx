@@ -17,7 +17,7 @@ function App() {
       <CardBody title="Hola mundo" text="Este es el texto" />
       <List data={list} onSelect={handleSelect} />
       <Button isLoading={isLoading} onClick={handleClick}>
-        Hola
+        Bla bla bla
       </Button>
     </Card>
   );
